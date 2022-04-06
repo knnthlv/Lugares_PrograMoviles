@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lugares</string>
+    <string name="tv_correo">eMail</string>
+    <string name="tv_clave">Password</string>
+    <string name="msg_correo">Field to enter your email</string>
+    <string name="msg_clave">Field to enter your password</string>
+    <string name="msg_btLogin">Button to login to the App</string>
+    <string name="msg_btRegister">Button to register in the App</string>
+    <string name="msg_fallo_registro">User registration failed</string>
+    <string name="msg_fallo_login">User login failed</string>
+    <string name="title_activity_principal">Main</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

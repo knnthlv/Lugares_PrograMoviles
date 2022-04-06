@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Lugares</string>
+    <string name="tv_correo">Correo</string>
+    <string name="tv_clave">Contraseña</string>
+    <string name="msg_correo">Campo para ingresar su correo</string>
+    <string name="msg_clave">Campo para ingresar su contraseña</string>
+    <string name="msg_btLogin">Boton para hacer login al App</string>
+    <string name="msg_btRegister">Boton para registrarse en el App</string>
+    <string name="msg_fallo_registro">Falló el registro del usuario</string>
+    <string name="msg_fallo_login">Falló el login del usuario</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="menu_lugar" translatable="false">Lugares</string>
+    <string name="menu_gallery" translatable="false">Gallery</string>
+    <string name="menu_slideshow" translatable="false">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    <string name="msg_nombre_add" translatable="false">Nombre del lugar</string>
+    <string name="msg_correo_add" translatable="false">Correo del lugar</string>
+    <string name="msg_telefono_add" translatable="false">Teléfono del lugar</string>
+    <string name="msg_web_add" translatable="false">Sitio WEB del lugar</string>
+    <string name="msg_lugar_add" translatable="false">Lugar agregado</string>
+    <string name="msg_lugar_update" translatable="false">Lugar actualizado</string>
+    <string name="msg_lugar_delete" translatable="false">Lugar eliminado</string>
+
+    <string name="bt_add_lugar" translatable="false">Agregar Lugar</string>
+    <string name="bt_update_lugar" translatable="false">Actualizar Lugar</string>
+    <string name="menu_delete" translatable="false">Eliminar Lugar</string>
+    <string name="msg_seguroBorrar" translatable="false">"¿Está seguro de eliminar "</string>
+    <string name="no" translatable="false">No</string>
+    <string name="si" translatable="false">Si</string>
+
+    <string name="msg_enviar_correo" translatable="false">Enviar correo electrónico</string>
+    <string name="msg_phone_call" translatable="false">Realizar llamada telefónica</string>
+    <string name="msg_whatsapp_send" translatable="false">Enviar mensaje WhatsApp</string>
+    <string name="msg_web_view" translatable="false">Abrir sitio Web</string>
+    <string name="msg_map_view" translatable="false">Ver lugar en mapa</string>
+    <string name="tv_latitud_lb" translatable="false">Latitud</string>
+    <string name="tv_longitud_lb" translatable="false">Longitud</string>
+    <string name="tv_altura_lb" translatable="false">Altura</string>
+    <string name="msg_saludos" translatable="false">Saludos amigos</string>
+    <string name="msg_mensaje_correo" translatable="false">Le escribo este correo para</string>
+    <string name="msg_datos" translatable="false">Faltan datos</string>
+    <string name="msg_firebase_add" translatable="false">Lugar agregado</string>
+    <string name="msg_firebase_update" translatable="false">Lugar modificado</string>
+    <string name="msg_firebase_delete" translatable="false">Lugar eliminado</string>
+    <string name="msg_firebase_no_add" translatable="false">ERROR: Lugar no agregado</string>
+    <string name="msg_firebase_no_update" translatable="false">ERROR: Lugar no actualizado</string>
+    <string name="msg_firebase_no_delete" translatable="false">ERROR: Lugar no eliminado</string>
+    <string name="error" translatable="false">Error</string>
+    <string name="todo" translatable="false">To Do</string>
+
+    <string name="msgEscucharAudio" translatable="false">Escuchar audio</string>
+    <string name="msg_imagen" translatable="false">Imagen del lugar</string>
+    <string name="graba_pausa" translatable="false">Graba o pausa grabación</string>
+    <string name="escuchaPlay" translatable="false">Escucha grabación</string>
+    <string name="delete_nota" translatable="false">Borra nota de audio</string>
+    <string name="play_nota" translatable="false">Escuchar nota de audio</string>
+    <string name="rec_stop_nota" translatable="false">Graba o detiene nota de audio</string>
+    <string name="take_photo" translatable="false">Toma foto</string>
+    <string name="rotate_l" translatable="false">Rota izquierda</string>
+    <string name="rotale_r" translatable="false">Rota a la derecha</string>
+    <string name="msg_graba_audio" translatable="false">Grabando nota de audio</string>
+    <string name="msg_detener_audio" translatable="false">Nota de audio detenida</string>
+    <string name="msg_subiendo_audio" translatable="false">Subiendo Nota Audio</string>
+    <string name="msg_subiendo_imagen" translatable="false">Subiendo imagen</string>
+
+    <string name="default_web_client_id"
+        translatable="false">822665498436-96068afvv8611e89un31u32mjq369r4k.apps.googleusercontent.com</string>
+
+</resources>
