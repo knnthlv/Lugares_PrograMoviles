@@ -17,7 +17,7 @@
     <string name="action_settings" translatable="false">Settings</string>
 
     <string name="menu_lugar" translatable="false">Lugares</string>
-    <string name="menu_gallery" translatable="false">Gallery</string>
+    <string name="menu_gallery" translatable="false">Mapa</string>
     <string name="menu_slideshow" translatable="false">Slideshow</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
@@ -71,6 +71,8 @@
     <string name="msg_detener_audio" translatable="false">Nota de audio detenida</string>
     <string name="msg_subiendo_audio" translatable="false">Subiendo Nota Audio</string>
     <string name="msg_subiendo_imagen" translatable="false">Subiendo imagen</string>
+    
+    <string name="google_maps_key" translatable="false">AIzaSyBRTtlOw-6t8GeA393Ky3v-wADoG66HCBw</string>
 
     <string name="default_web_client_id"
         translatable="false">822665498436-96068afvv8611e89un31u32mjq369r4k.apps.googleusercontent.com</string>
